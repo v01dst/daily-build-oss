@@ -1,0 +1,1 @@
+{"name": "day01-rate-limiter","type": "module","version": "1.0.0","scripts": {"test": "node --test tests/rateLimiter.test.js"}}
