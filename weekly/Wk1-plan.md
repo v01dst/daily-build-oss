@@ -1,3 +1,4 @@
+Progress: Day01 done 2026-09-15 (build + EOD). Next: Wed OSS triage.
 # Wk1 2026-09-15→2026-09-21 — Build + OSS hybrid kickoff
 
 - Tue 09-15 Day01: build rate-limiter (this plan Task 2)
